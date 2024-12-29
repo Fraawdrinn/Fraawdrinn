@@ -7,12 +7,14 @@ My love for development stems from my fascination with technology, and I thrive 
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
 
 ## My Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=fraawdrinn&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraawdrinn&theme=radical&exclude_repo=wipeey.github.io" />
-</a>
+<div style="display: flex; gap: 10px">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=fraawdrinn&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraawdrinn&theme=tokyonight" />
+  </a>
+</div>
 
 
 --- 
