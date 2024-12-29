@@ -8,9 +8,14 @@ My love for development stems from my fascination with technology, and I thrive 
 
 ## My Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=wipeey&show_icons=true&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=fraawdrinn&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraawdrinn&theme=radical&exclude_repo=wipeey.github.io" />
 </a>
 
+
+--- 
 
 ### 🌱 I’m currently learning:
 - Python data libraries such as numpy, pymunk, panda and matplotlib
