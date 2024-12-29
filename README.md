@@ -1,13 +1,23 @@
 # 👋 Hello, world! I'm Fraawdrinn, 
-## 🤠 A passionate junior developer who loves turning coffee into code. Welcome to my GitHub profile! 
+## 🤠 A passionate junior developer who loves turning coffee into code. 
+## Welcome to my GitHub profile! 
 I have a deep passion for programing, where I like I enjoy creating responsive and user-friendly interfaces.  <br>
 My love for development stems from my fascination with technology, and I thrive on making small apps for myself, hopping I will do it for a company in the futur !
 
 ## 🧰 My Tools
-<!-- HTML --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="HTML5" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
+<div style="diplay: inline;">
+  <!-- CSS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="HTML5" width="50" height="50" />
+  <!-- HTML --> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+  <!-- CSS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+  <!-- JS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50" />
+  <!-- Debian -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
+  
+</div>
 
 ## 📊 My Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
