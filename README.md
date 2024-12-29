@@ -1,12 +1,14 @@
 # 👋 Hello, world! I'm Fraawdrinn, 
 ## 🤠 A passionate junior developer who loves turning coffee into code. 
-## Welcome to my GitHub profile! 
-I have a deep passion for programing, where I like I enjoy creating responsive and user-friendly interfaces.  <br>
-My love for development stems from my fascination with technology, and I thrive on making small apps for myself, hopping I will do it for a company in the futur !
+### Welcome to my GitHub profile! 
+
+I am an IT student in love with every field of computer science, struggling to find his way...
+I have a deep passion for web development, where I like I enjoy creating responsive and user-friendly interfaces.  <br>
+My love for development stems from my fascination with technology, and I thrive on making small apps for myself, <br> hopping I will do it for a company in the futur !
 
 ## 🧰 My Tools
 <div style="diplay: inline;">
-  <!-- CSS -->
+  <!-- Git -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="HTML5" width="50" height="50" />
   <!-- HTML --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
@@ -29,12 +31,19 @@ My love for development stems from my fascination with technology, and I thrive 
 
 --- 
 
-### 🌱 I’m currently learning:
-- Python data libraries such as numpy, pymunk, panda and matplotlib
+### 🌱 I’m currently learning :
 
+- Python libraries such as numpy, pymunk, panda and matplotlib
 - Web frontend frameworks and backend using Node.js
 
+### 💻 I'm currently working on :
 
+- Few websites in order to build experience (open source, so it can serve as a template)
+- --> [Check Model restaurant](https://github.com/Fraawdrinn/Model-restaurant)
+- Unity 2D Game (I said that I struggle to find my way) <br>
+--> [Check Rock Breaker project](https://github.com/IkWane/rock-breaker)
+- Python Gravity (using pymunk) <br>
+--> [Check Graphic gravity](https://github.com/Fraawdrinn/graphic_gravity)
 
 ### 📫 How to reach me:
 - contact.fraawdrinn@gmail.com
