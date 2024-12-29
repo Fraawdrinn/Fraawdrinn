@@ -1,6 +1,6 @@
 # 👋 Hello, world! I'm Fraawdrinn, 
-## a passionate developer who loves turning coffee into code. Welcome to my GitHub profile!
-I have a deep passion for programing, where I like I enjoy creating responsive and user-friendly interfaces. 🤠
+## 🤠 A passionate junior developer who loves turning coffee into code. Welcome to my GitHub profile! 
+I have a deep passion for programing, where I like I enjoy creating responsive and user-friendly interfaces.  <br>
 My love for development stems from my fascination with technology, and I thrive on making small apps for myself, hopping I will do it for a company in the futur !
 
 ## 🧰 My Tools
