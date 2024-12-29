@@ -3,8 +3,8 @@ I have a deep passion for programing, where I like I enjoy creating responsive a
 My love for development stems from my fascination with technology, and I thrive on making small apps for myself, hopping I will do it for a company in the futur !
 
 ## My Tools
-[https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg]
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)" alt="HTML5" width="50" height="50" />[]
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
 
 
 
