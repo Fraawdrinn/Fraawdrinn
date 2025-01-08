@@ -26,7 +26,7 @@ My love for development stems from my fascination with technology, and I thrive 
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <!-- C++ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /> -->
   <!-- C# -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
   <!-- Bash -->
