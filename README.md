@@ -5,7 +5,7 @@
 I am an IT student in love with every field of computer science, struggling to find his way... <br>
 
 I have a deep passion for web development, where I like I enjoy creating responsive and user-friendly interfaces.  <br>
-My love for development stems from my fascination with technology, and I thrive on making small apps for myself, <br> hopping I will do it for a company in the futur !
+My love for development stems from my fascination with technology, and I thrive on making small apps for myself, <br> hopping I will do it for a company in the future !
 
 ---
 
