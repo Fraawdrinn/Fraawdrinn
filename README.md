@@ -17,26 +17,25 @@ My love for development stems from my fascination with technology, and I thrive 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Debian" width="50" height="50" />
   <!-- Debian -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
-  
+  <!-- Bash -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
+  &nbsp;
   <!-- HTML --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
   <!-- CSS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-  <!-- JS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50" />
-  <!-- React -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
-  
-  <!-- Python -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <!-- TS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" />
+  <!-- React -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+  &nbsp;
+  <!-- Python -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <!-- C++ -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /> -->
   <!-- C# -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
-  <!-- Bash -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
+  
 </div>
 
 ---
