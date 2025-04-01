@@ -1,5 +1,5 @@
-# 👋 Hello, world! I'm Fraawdrinn, 
-## 🤠 A passionate junior developer who loves turning coffee into code. 
+# Fraawdrinn 
+## A passionate junior developer who loves turning coffee into code. 
 ### Welcome to my GitHub profile! 
 
 I am an IT student in love with every field of computer science, struggling to find his way... <br>
