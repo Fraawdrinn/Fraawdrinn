@@ -16,7 +16,7 @@ My love for development stems from my fascination with technology, and I thrive 
   <!-- Linux -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Debian" width="50" height="50" />
   <!-- Debian -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" /> -->
   <!-- Bash -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
   &nbsp;&nbsp;
@@ -34,7 +34,7 @@ My love for development stems from my fascination with technology, and I thrive 
   <!-- C++ -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /> -->
   <!-- C# -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /> -->
   &nbsp;&nbsp;
 </div>
 
