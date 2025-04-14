@@ -32,8 +32,6 @@ My love for development stems from my fascination with technology, and I thrive 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
   <!-- NextJS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="React" width="50" height="50" />
-
-  &nbsp;&nbsp;
   <!-- C++ -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /> -->
   <!-- C# -->
