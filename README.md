@@ -14,7 +14,7 @@ My love for development stems from my fascination with technology, and I thrive 
   <!-- Git -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="HTML5" width="50" height="50" />
   <!-- Linux -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Debian" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Linux" width="50" height="50" />
   <!-- Debian -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" /> -->
   <!-- Bash -->
@@ -27,13 +27,13 @@ My love for development stems from my fascination with technology, and I thrive 
   <!-- CSS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
   <!-- TS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" />
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
   <!-- Tailwind -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="React" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="50" height="50" />
   <!-- NextJS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="React" width="50" height="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50" />
   <!-- C++ -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /> -->
   <!-- C# -->
